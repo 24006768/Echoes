@@ -1,4 +1,25 @@
 # Echoes
+🎯 AIM
+
+To design and develop a first-person horror game that creates an immersive, realistic, and suspense-filled environment, incorporating lighting effects, atmospheric sounds, and AI-driven horror elements — providing players with a true immersive horror adventure.
+
+🧭 PROJECT OVERVIEW
+
+* Engine: Unreal Engine 5
+* Platform: PC 
+* Theme: Horror, Exploration, Survival
+
+⚙️ PROCEDURE
+
+The development of this horror game follows a step-by-step structured approach, combining environment design, storyline integration, AI behavior, and game mechanics to create an immersive player experience.
+
+🕹️ Game Concept
+
+* The player takes the role of a journalist investigating a haunted area in search of a cursed gem.
+* The gem is the source of a ghost’s power, and the player must find and destroy it to escape the horror.
+* Throughout the journey, the player experiences intense suspense, dark environments, creepy sound effects, and unexpected ghost encounters.
+
+
 ## 📅 **Week [1] (Day 1 & Day 2, [13/10/25,14/10/25])**
 
 ### 🗓 **Day 01**
@@ -7,7 +28,10 @@
 The team successfully set up flashlight effects and created a realistic fog, dust, and mist environment to enhance the haunted village atmosphere. 
 Characters and assets were imported, laying the groundwork for scene detailing.
 
+# Flashlight:
+<img width="1909" height="1006" alt="image" src="https://github.com/user-attachments/assets/58de4405-e670-47c5-9f20-28a595150209" />
 
+# Fog Setup
 ![fogsetup](https://github.com/user-attachments/assets/a97756b2-432c-4422-b9f4-6ef3082b0d25)
 
 ## **Goals for Next Day:**
